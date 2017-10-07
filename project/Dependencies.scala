@@ -1,11 +1,14 @@
 import sbt._
 
 object Version {
-  val akka       = "2.5.3"
-  val akkaHttp   = "10.0.8"
-  val mockito    = "1.9.5"
+  val akka       = "2.5.6"
+  val akkaHttp   = "10.0.10"
+
   val nuprocess  = "1.1.2"
-  val scala      = "2.11.11"
+
+  val scala      = "2.12.3"
+
+  val mockito    = "1.9.5"
   val scalaTest  = "3.0.1"
 }
 
